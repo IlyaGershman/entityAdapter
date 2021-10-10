@@ -1,0 +1,2 @@
+# entityAdapter
+Created with CodeSandbox
